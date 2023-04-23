@@ -1,6 +1,6 @@
 // import "core-js/actual/array/group-by";
 
-
+// /commment
 const productsEl = document.querySelector(".products");
 const cartItemsEl = document.querySelector(".cart-container");
 
